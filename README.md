@@ -1,7 +1,5 @@
 # Sentiment_Analysi_twitter_news
 
-https://colab.research.google.com/drive/1OSDP_5HmiPY87omjkS2ZXJvLOGol2Ssm?usp=sharing
-
 # What is sentiment analysis?
 Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion or attitude of a speaker.
 
